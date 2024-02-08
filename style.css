@@ -1,0 +1,32 @@
+.profil-image {
+    width: 100px;
+    height: 100px;
+    /*border-radius: 10%;*/
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body {
+    background-image: url('https://www.fond-ecran-hd.net/Public/uploads/2019-01-14/1397.jpg'); /* Remplacez par le chemin de votre image */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 150%; /* Ajustez selon vos besoins */
+    background-position: left top;
+}
+
+.darkness {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.icons {
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.justify{
+    text-align: justify;
+}
