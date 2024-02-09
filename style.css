@@ -38,19 +38,28 @@ body {
     z-index: 1000; /* Assurez-vous que la barre de navigation soit au-dessus du contenu */
 }
 
+.accueil{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.tabulation{
+    margin-left: 50px;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 1.6;
     color: #262c31;
     background-color: #fff6ec;
-    padding-top: 400px;
+    padding-top: 100px;
     padding-bottom: 0;
 }
 
 .bg-white-custom {
     background-color: #fff7ed;
-    color: #fff7ed;
+    color: #343331;
 }
 
 .bg-light-custom {
