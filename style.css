@@ -30,3 +30,49 @@ body {
 .justify{
     text-align: justify;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #262c31;
+    background-color: #fff6ec;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-white-custom {
+    background-color: #fff7ed;
+}
+
+.bg-light-custom {
+    background-color: #f8f9fa;
+}
+
+.bg-dark-custom {
+    background-color: #262c31;
+}
+
+.bg-primary-custom {
+    background-color: #048ce1;
+}
+
+.bg-secondary-custom {
+    background-color: #04e121;
+}
+
+.bg-success-custom {
+    background-color: #28a745;
+}
+
+.bg-info-custom {
+    background-color: #17a2b8;
+}
+
+.bg-warning-custom {
+    background-color: #ffc107;
+}
+
+.bg-danger-custom {
+    background-color: #dc3545;
+}
