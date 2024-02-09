@@ -9,11 +9,18 @@
 }
 
 body {
-    background-image: url('https://www.fond-ecran-hd.net/Public/uploads/2019-01-14/1397.jpg'); /* Remplacez par le chemin de votre image */
+    background-image: url('https://i.pinimg.com/originals/ba/b4/11/bab411f03f0b16e9ef1b54f46de949de.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 150%; /* Ajustez selon vos besoins */
+    background-size: 120%;
     background-position: left top;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #262c31;
+    background-color: #fff6ec;
+    padding-top: 100px;
+    padding-bottom: 0;
 }
 
 .darkness {
@@ -45,16 +52,6 @@ body {
 
 .tabulation{
     margin-left: 50px;
-}
-
-body {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
-    line-height: 1.6;
-    color: #262c31;
-    background-color: #fff6ec;
-    padding-top: 100px;
-    padding-bottom: 0;
 }
 
 .bg-white-custom {
